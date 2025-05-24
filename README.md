@@ -1,15 +1,8 @@
 # Product Review Sentiment Analyzer
 
-This is a simple app that lets you enter a product link and returns the sentiment (Positive, Negative, Neutral) of the reviews.
+This simple app lets you enter a product link and returns the sentiment of the top 3 reviews (Positive, Negative, Neutral).
 
-## 🔧 Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+## 🌐 Click On The Link Tp Acces
 ```
-
-## 🌐 Deploy Globally
-
-- **Streamlit Cloud**: Connect this repo and deploy
-- **Render**: Use `streamlit run app.py` as start command
+-**Streamlit App**: https://sentiment-app-review-analyzer2047k.streamlit.app/
+```
